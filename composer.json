@@ -1,0 +1,15 @@
+{
+    "name": "doyevaristo/simple-config-reader",
+    "description": "A really simple configuration reader. Loads your configuration file in a straight forward manner.",
+    "authors": [{
+        "name": "Rolando Evaristo",
+        "email": "doy.evaristo@gmail.com"
+    }],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Doyevaristo\\": "src"
+        }
+    },
+    "require": {}
+}
