@@ -5,6 +5,7 @@
         "name": "Rolando Evaristo",
         "email": "doy.evaristo@gmail.com"
     }],
+    "license": "MIT",
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
