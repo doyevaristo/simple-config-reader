@@ -5,6 +5,8 @@ class ConfigReader{
 
     public function __construct(){
 
+        //smple edit file
+
     }
     
     /**
